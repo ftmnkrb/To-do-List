@@ -1,0 +1,16 @@
+.dropdown-toggle::after{
+     display: none;
+}
+.task{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+#button-addon2{
+     background-color: #497174;
+     border: #497174;
+}
+#btnClear{
+     border: #EB6440;
+     background-color: #EB6440;
+}
