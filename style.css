@@ -14,3 +14,6 @@
      border: #EB6440;
      background-color: #EB6440;
 }
+.task label.checked{
+     text-decoration: line-through;
+}
