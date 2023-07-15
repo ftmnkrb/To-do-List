@@ -17,3 +17,20 @@
 .task label.checked{
      text-decoration: line-through;
 }
+.task input.checked{
+     background-color: red;
+}
+.controls{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.filters span.active{
+     color: #2771e7;
+}
+.filters span{
+     margin-right: 5px;
+     font-size: 15px;
+     cursor: pointer;
+     column-rule-color: #444444;
+}
